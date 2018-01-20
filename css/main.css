@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* logo */
+h2 {
+  color: #f7b617;
+  font-size: 5em;
+}
+
+/* section  1 */
+.sec1 {
+  background: #000;
+  /* height: 100vh; */
+}
+
+.padding {
+  padding: 45vh 37vw;
+}
+
+/* section 2 */
