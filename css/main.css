@@ -1,22 +1,58 @@
-body {
-  margin: 0;
-  padding: 0;
-}
 
 /* logo */
+h1 {
+  color: #f7b617;
+  font-size: 3em;
+  margin-top: 35vh;
+}
+
+/* titulo de section 2 */
 h2 {
   color: #f7b617;
-  font-size: 5em;
+  font-size: 3em;
+}
+
+/* color blanco al icono cuadrado */
+i {
+  color: #fff;
+}
+
+/*color y tamaño al texto  */
+h3 {
+  color: #f7b617;
+  /* font-size: 1.8em; */
 }
 
 /* section  1 */
 .sec1 {
   background: #000;
-  /* height: 100vh; */
-}
-
-.padding {
-  padding: 45vh 37vw;
+  height: 100vh;
 }
 
 /* section 2 */
+.imags, img {
+  display: inline-block;
+  height: 20vh;
+  width: 30vw;
+}
+
+/* padin mapa y fotos */
+.pd {
+  padding-top: 3vh;
+}
+
+/*color section 2  */
+.sec2 {
+  background: #000;
+}
+
+.button {
+  background-color: #f7b617;
+  color: #fff;
+}
+
+/* map modal */
+.modal-map {
+  height: 40vh;
+  width: 90vw;
+}
