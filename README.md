@@ -20,11 +20,11 @@ Objetivo principal
 
 5. Al seleccionar el restaurantes, mostrarmos la información del restaurante a través de un modal.
 
-    ![Texto alternativo](assets/images/4.png)
+    ![Texto alternativo](assets/images/5.png)
 
 6. En la ultima vista al cerrar el modal podremos regresar a la vista principal y buscar otra opcion si se necesita.
 
-    ![Texto alternativo](assets/images/5.png)
+    ![Texto alternativo](assets/images/6.png)
 
 
 
