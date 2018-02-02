@@ -23,6 +23,10 @@ h3 {
   /* font-size: 1.8em; */
 }
 
+#contenedor > div {
+  margin: 2vh 2vw;
+}
+
 /* section  1 */
 .sec1 {
   background: #000;
@@ -30,15 +34,16 @@ h3 {
 }
 
 /* section 2 */
-.imags, img {
-  display: inline-block;
-  height: 20vh;
-  width: 30vw;
-}
 
 /* padin mapa y fotos */
 .pd {
   padding-top: 3vh;
+}
+
+.food, .food > img {
+  display: inline-block;
+  height: 18vh;
+  width: 25vw;
 }
 
 /*color section 2  */
