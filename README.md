@@ -34,3 +34,6 @@ Objetivo principal
 - Filtrar la informacion
 - Mostrar la informacion atravez del Modal
 - Comprender el funcionamiento de jQuery
+
+
+## Elaborado para [Laboratoria](http://www.laboratoria.la/)
