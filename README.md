@@ -2,7 +2,7 @@
 
 Objetivo principal
 
-![foodmap](https://user-images.githubusercontent.com/32875689/38577690-45d01802-3cc7-11e8-9d87-78a64e392793.png)
+![foodmap](https://user-images.githubusercontent.com/32875689/38578959-13417f1c-3ccb-11e8-8a84-bf2cae58f9f9.png)
 
 1. Crearemos una web-app.
 
